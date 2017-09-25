@@ -18,7 +18,7 @@ public class PjtAppDelphi {
         // TODO code application logic here
         System.out.println("Hola Mundo");
         
-        System.out.println("Hola Sixto");
+        System.out.println("Hola Diego Sixto");
     }
     
 }
