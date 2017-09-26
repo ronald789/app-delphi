@@ -29,6 +29,13 @@ public class PjtAppDelphi {
         System.out.println("six!!! xd");
         
         
+        
+        
+        
+        System.out.println("pola mundo)");
+        
+        
+        
         System.out.println(" chino guey");
     }
     
